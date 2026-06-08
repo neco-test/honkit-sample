@@ -11,19 +11,19 @@ HonKitを動作させるためにはnode.jsが必要となります。
 まず必要なパッケージをインストールします。
 
 ```bash
-$ npm install
+$ pnpm install
 ```
 
 ビルドします。
 
 ```bash
-$ npm run build
+$ pnpm run build
 ```
 
 ローカルにサーバーを立てます。
 
 ```bash
-$ npm run serve
+$ pnpm run serve
 ```
 
 ブラウザで http://localhost:4000/ にアクセスすると表示を確認することができます。
