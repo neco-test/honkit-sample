@@ -11,7 +11,7 @@ HonKitを動作させるためにはnode.jsが必要となります。
 まず必要なパッケージをインストールします。
 
 ```bash
-$ pnpm install
+$ pnpm install --frozen-lockfile
 ```
 
 ビルドします。
