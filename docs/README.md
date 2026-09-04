@@ -255,26 +255,6 @@ database "MySql" {
 
 他のサンプルは[仕様](http://plantuml.com/sitemap-language-specification)をみてください。
 
-### Mermaid
-
-```markdown
-sequenceDiagram
-    autonumber
-    Alice->>+John: こんにちはジョン、ごきげんいかが？
-    Alice->>+John: ジョン、聞こえますか？
-    John-->>-Alice: やあアリス、聞こえるよ。
-    John-->>-Alice: 気分は最高だ！
-```
-
-```mermaid
-sequenceDiagram
-    autonumber
-    Alice->>+John: こんにちはジョン、ごきげんいかが？
-    Alice->>+John: ジョン、聞こえますか？
-    John-->>-Alice: やあアリス、聞こえるよ。
-    John-->>-Alice: 気分は最高だ！
-```
-
 ### MagicLink
 
 URLっぽい文字列を書いておくと自動的にリンクに置き換えてくれます。
