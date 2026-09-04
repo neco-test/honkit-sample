@@ -6,7 +6,6 @@ module.exports = {
     "flexible-alerts",
     "folding-content",
     "intopic-toc",
-    "mermaid-newface",
     "toggle-chapters",
     "uml"
   ],
